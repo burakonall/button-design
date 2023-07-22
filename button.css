@@ -1,0 +1,72 @@
+.tweetButton {
+    background-color: rgb(24, 144, 224);
+    color: white;
+    border: 0px;
+    width: 70px;
+    height: 35px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: medium;
+    font-weight: bold;
+
+}
+
+.uberButton {
+    background-color: black;
+    color: white;
+    border: 0px;
+    width: 140px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.amazonButton {
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border-radius: 15px;
+    width: 150px;
+    height: 30px;
+    border: 0px;
+    font-size: small;
+
+    cursor: pointer;
+}
+
+.gitHubButton {
+    background-color: rgb(46, 164, 79);
+    border-radius: 8px;
+    color: white;
+    border: 0px;
+    font-size: 16px;
+    font-weight: bold;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.bootStrap1 {
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border-radius: 3px;
+    width: 100;
+    height: 40;
+    border: 0;
+    font-weight: bolder;
+    font-size: 13;
+    cursor: pointer;
+}
+
+.bootStrap2 {
+    background-color: white;
+    color: rgb(108, 117, 125);
+    border: 1;
+    border-color: rgb(108, 117, 125);
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 1px;
+    width: 90;
+    height: 40;
+    font-size: 13;
+    font-weight: bolder;
+    cursor: crosshair;
+}
